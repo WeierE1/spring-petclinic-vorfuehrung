@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
 
       - name: Katalogeintrag pruefen
         env:
@@ -91,7 +91,7 @@ jobs:
       # Job jedes andere Recht -- auch das Leserecht, das er vorher hatte.
       pull-requests: read
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
         with:
           ref: main
           # Voller Klon: der Push braucht die Historie, und ein flacher Klon
