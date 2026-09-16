@@ -51,7 +51,7 @@ jobs:
       # Auch bei rotem Lauf - das ist genau der Fall, den das Tor untersucht.
       - name: Surefire-XML als Artefakt ablegen
         if: always()
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: surefire-reports
           path: '**/target/surefire-reports/*.xml'
@@ -141,7 +141,7 @@ jobs:
       # dem Host aus E23, weil DT nur auf 127.0.0.1 hoert.
       - name: SBOM und Integritaetslog als Artefakt ablegen
         if: always()
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: sbom
           path: |
