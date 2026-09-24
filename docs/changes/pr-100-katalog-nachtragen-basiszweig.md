@@ -4,8 +4,8 @@
 |---|---|
 | PR | [WeierE1/spring-petclinic-vorfuehrung#100](https://github.com/WeierE1/spring-petclinic-vorfuehrung/pull/100) |
 | Branch | `fix/katalog-nachtragen-basiszweig` → `1.5.x` |
-| Merged | pending-datum-100 |
-| Size | pending-size-100 |
+| Merged | 2026-09-24 11:01 UTC |
+| Size | +144 / −8 über 4 Dateien |
 | Issues | — |
 | Review | offen (Mensch) |
 

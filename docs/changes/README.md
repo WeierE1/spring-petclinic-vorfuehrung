@@ -14,7 +14,7 @@ eine echte Testsuite. Die Upstream-Historie gehört nicht zu diesem Katalog.
 
 | PR | Merged (UTC) | Title | Issues | Size | Detail |
 |---|---|---|---|---|---|
-| [pr-100](https://github.com/WeierE1/spring-petclinic-vorfuehrung/pull/100) | pending-datum-100 | katalog nachtragen: Zielzweig aus dem Ereignis, Ruleset-Fall eindeutig | — | pending-size-100 | [→](pr-100-katalog-nachtragen-basiszweig.md) |
+| [pr-100](https://github.com/WeierE1/spring-petclinic-vorfuehrung/pull/100) | 2026-09-24 11:01 | katalog nachtragen: Zielzweig aus dem Ereignis, Ruleset-Fall eindeutig | — | +144/−8 · 4 | [→](pr-100-katalog-nachtragen-basiszweig.md) |
 | [pr-099](https://github.com/WeierE1/spring-petclinic-vorfuehrung/pull/99) | 2026-09-24 10:12 | Renovate-Preset-Verweis auf WeierE1/cra-renovate-presets umgestellt | — | +61/−1 · 3 | [→](pr-099-renovate-preset-umzug.md) |
 | [pr-023](https://github.com/WeierE1/spring-petclinic/pull/23) | pending-datum-023 | Katalogrückstand aufholen und das Tor mitziehen | CRA-Private#44 | pending-size-023 | [→](pr-023-katalog-und-tor.md) |
 | [pr-013](https://github.com/WeierE1/spring-petclinic/pull/13) | 2026-09-09 06:01 | PR-PROFILE.md aus echtem Lauf | CRA-Private#35 | +88/−0 · 1 | [→](pr-013-pr-profile-aus-echtem-lauf.md) |
