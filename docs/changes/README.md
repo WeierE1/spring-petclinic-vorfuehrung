@@ -14,7 +14,7 @@ eine echte Testsuite. Die Upstream-Historie gehört nicht zu diesem Katalog.
 
 | PR | Merged (UTC) | Title | Issues | Size | Detail |
 |---|---|---|---|---|---|
-| [pr-099](https://github.com/WeierE1/spring-petclinic-vorfuehrung/pull/99) | pending-datum-099 | Renovate-Preset-Verweis auf WeierE1/cra-renovate-presets umgestellt | — | pending-size-099 | [→](pr-099-renovate-preset-umzug.md) |
+| [pr-099](https://github.com/WeierE1/spring-petclinic-vorfuehrung/pull/99) | 2026-09-24 10:12 | Renovate-Preset-Verweis auf WeierE1/cra-renovate-presets umgestellt | — | +61/−1 · 3 | [→](pr-099-renovate-preset-umzug.md) |
 | [pr-023](https://github.com/WeierE1/spring-petclinic/pull/23) | pending-datum-023 | Katalogrückstand aufholen und das Tor mitziehen | CRA-Private#44 | pending-size-023 | [→](pr-023-katalog-und-tor.md) |
 | [pr-013](https://github.com/WeierE1/spring-petclinic/pull/13) | 2026-09-09 06:01 | PR-PROFILE.md aus echtem Lauf | CRA-Private#35 | +88/−0 · 1 | [→](pr-013-pr-profile-aus-echtem-lauf.md) |
 | [pr-021](https://github.com/WeierE1/spring-petclinic/pull/21) | 2026-09-08 07:33 | Ausnahme 28.2: actuator als Risikoübernahme | CRA-Private#33 | +14/−2 · 1 | [→](pr-021-ausnahme-actuator.md) |

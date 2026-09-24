@@ -4,8 +4,8 @@
 |---|---|
 | PR | [WeierE1/spring-petclinic-vorfuehrung#99](https://github.com/WeierE1/spring-petclinic-vorfuehrung/pull/99) |
 | Branch | `chore/renovate-preset-umzug` → `1.5.x` |
-| Merged | pending-datum-099 |
-| Size | pending-size-099 |
+| Merged | 2026-09-24 10:12 UTC |
+| Size | +61 / −1 über 3 Dateien |
 | Issues | — |
 | Review | kein menschliches Review; Merge durch den Repo-Inhaber |
 
